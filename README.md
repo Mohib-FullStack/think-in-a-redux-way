@@ -107,3 +107,37 @@ Please follow the below instructions to run server in your machine:
 [servericon-shield]: https://img.icons8.com/external-itim2101-flat-itim2101/28/undefined/external-server-network-technology-itim2101-flat-itim2101-2.png
 [rocketicon-shield]: https://img.icons8.com/arcade/30/undefined/experimental-rocket-arcade.png
 [contacticon-shield]: https://img.icons8.com/external-flaticons-lineal-color-flat-icons/28/undefined/external-support-communication-media-flaticons-lineal-color-flat-icons.png
+
+#### How to run
+
+Please follow the below instructions to run this branch in your machine:
+
+Login to the GitHub account on which you have been granted access to this repository. If you have purchased the course but didn't get the access to this repository, please contact our support team. You will find contact details below.
+
+Clone this repository -
+
+git clone https://github.com/Learn-with-Sumit/think-in-a-redux-way
+Go to the cloned project directory
+
+cd think-in-a-redux-way
+Checkout/switch to branch 7.9
+
+git checkout 7.9
+Install dependencies
+
+npm i
+Install VS Code Live Server plugin & start the server.
+
+npm start
+Your app should be available in http://localhost:3000
+
+<br>
+
+Please follow the below instructions to run server in your machine:
+
+Go to the server directory
+cd server
+Install dependencies
+npm i
+Start the server
+npm start
